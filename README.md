@@ -69,3 +69,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # todolist-client
+
+### 기본 기능
+
+1. **할 일 추가**: 새로운 할 일을 입력하고 추가하는 기능.
+2. **할 일 목록 표시**: 현재 할 일 목록을 처음 화면에 표시.
+3. **완료 표시**: 할 일을 완료로 표시할 수 있는 체크박스./markcomplete
+4. **할 일 삭제**: 불필요한 할 일을 삭제하는 기능./delete 버튼
+5. **할 일 수정**: 기존 할 일을 편집할 수 있는 기능.
+
+### 데이터 관리
+6. **로컬 스토리지**: 새로고침 후에도 할 일이 유지되도록 로컬 스토리지에 저장./
+                             새로고침하면 수정된 내용이 저장되서 바로 보이게
+
+### 추가 요소
+7. **커스터마이징**: 사용자가 테마나 색상을 선택할 수 있는 기능.
